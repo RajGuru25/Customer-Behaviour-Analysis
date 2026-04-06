@@ -76,6 +76,15 @@ Key questions:
 - Enhance customer retention strategies  
 
 ---
+##  Project Structure
+Customer-Behavior-Analysis/
+│
+├── data/
+├── notebooks/
+├── sql/
+├── images/
+├── powerbi/
+└── README.md
 
 ---
 
