@@ -1,4 +1,4 @@
-# Customer-Behavior-Analysis
+# Customer-Behaviour-Analysis
 
 ##  Project Overview
 This project analyzes customer shopping behavior using transactional data to uncover insights that help improve sales, customer engagement, and business decision-making.
